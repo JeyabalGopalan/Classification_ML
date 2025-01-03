@@ -1,1 +1,1 @@
-## Gym Attendance Prediction Based on Temperature and Distance using Logistic Regression
+#### 1. Gym Attendance Prediction Based on Temperature and Distance using `Logistic Regression`
